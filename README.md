@@ -1,17 +1,3 @@
-# MarkDown Cheatsheet
-**Strong _Emphasis_**
+# Holberton School GitHub Repository
 
-..* Lists
-1. Element 1
-1. Element 2
-1. Element 3
-1. etc.
-
-[Links](https://www.google.com)
-
-```C
-code blocks
-```
-
-> Blockquotes
-
+This Repository is used to house projects completed for Holberton School.
